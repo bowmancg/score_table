@@ -25,7 +25,5 @@ function draw() {
 }
 
 function resetWins() {
-    document.getElementById("red-score").reset()
-    document.getElementById("blue-score").reset()
-    draw()
+    
 }
